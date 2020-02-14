@@ -1,0 +1,11 @@
+#2020.2.14
+We create a Student grade management system based on python.
+--Student grade management system--
+|1.increase student records--------|
+|2.modify student records----------|
+|3.delete student records----------|
+|4.inquire by name or id-----------|
+|5.sort by C Language scores-------|
+|6.statistic-----------------------|
+|7.exit----------------------------|
+Result will be saved in '完整表.xlsx'.
